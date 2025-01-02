@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://guanlanxu.github.io/memo/blog/workout/</loc>
+    <lastmod>2025-01-02T11:16:30-06:00</lastmod>
+  </url><url>
+    <loc>https://guanlanxu.github.io/memo/</loc>
+    <lastmod>2025-01-02T11:16:30-06:00</lastmod>
+  </url><url>
+    <loc>https://guanlanxu.github.io/memo/20250102/</loc>
+    <lastmod>2025-01-02T11:16:30-06:00</lastmod>
+  </url><url>
+    <loc>https://guanlanxu.github.io/memo/blog/%E5%90%89%E4%BB%96/</loc>
+    <lastmod>2025-01-02T11:16:30-06:00</lastmod>
+  </url><url>
+    <loc>https://guanlanxu.github.io/memo/blog/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2025-01-02T11:16:30-06:00</lastmod>
+  </url><url>
+    <loc>https://guanlanxu.github.io/memo/blog/%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2025-01-02T11:16:30-06:00</lastmod>
+  </url><url>
+    <loc>https://guanlanxu.github.io/memo/blog/</loc>
+    <lastmod>2025-01-02T11:16:30-06:00</lastmod>
+  </url><url>
     <loc>https://guanlanxu.github.io/memo/winter-is-coming/</loc>
     <lastmod>2024-11-26T14:40:05-06:00</lastmod>
   </url><url>
-    <loc>https://guanlanxu.github.io/memo/</loc>
-    <lastmod>2024-11-26T14:40:05-06:00</lastmod>
-  </url><url>
-    <loc>https://guanlanxu.github.io/memo/blog/%E5%90%89%E4%BB%96/</loc>
-    <lastmod>2024-11-26T14:40:05-06:00</lastmod>
-  </url><url>
     <loc>https://guanlanxu.github.io/memo/blog/%E8%A7%82%E5%BD%B1/</loc>
-    <lastmod>2024-11-26T14:40:05-06:00</lastmod>
-  </url><url>
-    <loc>https://guanlanxu.github.io/memo/blog/</loc>
     <lastmod>2024-11-26T14:40:05-06:00</lastmod>
   </url><url>
     <loc>https://guanlanxu.github.io/memo/blog/%E6%97%85%E8%A1%8C/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2024-09-06T11:44:23-05:00</lastmod>
   </url><url>
     <loc>https://guanlanxu.github.io/memo/20240906/</loc>
-    <lastmod>2024-09-06T11:44:23-05:00</lastmod>
-  </url><url>
-    <loc>https://guanlanxu.github.io/memo/blog/%E9%98%85%E8%AF%BB/</loc>
     <lastmod>2024-09-06T11:44:23-05:00</lastmod>
   </url><url>
     <loc>https://guanlanxu.github.io/memo/20240705/</loc>
